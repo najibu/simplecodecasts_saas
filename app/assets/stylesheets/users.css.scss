@@ -1,0 +1,28 @@
+.job-title-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #2E6DA4;
+    border-radius: 4px;
+    background-color: #286090;
+    color: white;
+    text-align: center;
+}
+
+.well.profile-block{
+    h3 {
+        margin-top: 0;
+    }
+}
+
+.well.profile-description {
+    color: #FFF;
+    background-color: #449D44;
+    border-color: #255625;  
+}
+
+.well.contact-info {
+    color: #333;
+    background-color: #E6E6E6;
+    border-color: #8C8C8C;
+}
